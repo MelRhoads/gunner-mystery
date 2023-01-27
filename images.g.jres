@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAADgDgAAAAAAAO4OAAAAAADg7g4AAAAA4O7vDgAAAADg7+8OAAAAAO7u7w4AAAAA4O/vDgAAAAAA7u8OAAAAAADg7g4AAAAAAADgDgAAAAAAAAAOAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Poop"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAANDd3d3dAADd3d3d3Q0AAN3d3bsLAADQ3d3d3b3/DdDd7d/d+//d3d393927/9/d3d3d3fv/3d3d3d293f3d3d3d3d3d3Q3d3e3f3d3dAN3d/d/d3d0A0N3d3d3dvQDQ3d3du7u7AADd3d3d3d0AAADd3d3d3Q0AAADd3d3dDQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Gunner1"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAA0N3d3d0NAADd3d3dDQAAAN3d3bsLAADQ3d3d3b3/DdDd/d/d+//d3d3t3927/9/d3d3d3fv/3d3d3d293f3d3d3d3d3d3Q3d3f3f3d3dAN3d7d/d3d0A0N3d3d3dvQDQ3d3du7u7AADd3d3d3QAAAADd3d3dDQAAANDd3d0NAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Gunner2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
